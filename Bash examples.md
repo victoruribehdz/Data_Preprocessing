@@ -22,6 +22,12 @@
  * find / -name *.extension .fprint filenametoprint: search and send output from the find command to a file.
  * find /home -iname namefile: find files using name and ignoring cases
  * find / -type d -name filename: Find directories using name.
+### Find exercise
+ * find . -name scorers.txt
+ * find /home -iname scorers.txt
+ * find . -atime +20
+ * find / -type d -name Aymimadre
+ * find . -type f -name ".txt"
 
 ## whoami
  * whoami: Show the user
